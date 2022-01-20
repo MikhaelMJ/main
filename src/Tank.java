@@ -14,7 +14,7 @@ public class Tank {
         else y -= i;
     }
     public void printPosition() {
-        System.out.println("The Tank is at " + x + ", " + y + " now.");
+        System.out.println("The bmv is at " + x + ", " + y + " now.");
     }
 
     public void turnLeft() {
